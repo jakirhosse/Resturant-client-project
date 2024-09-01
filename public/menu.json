@@ -1,0 +1,296 @@
+[
+    {
+    
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "image": "https://starbelly-react.vercel.app/img/menu/7.jpg",
+      "category": "drinks",
+      "quantity": 1,
+      "price": 14.7
+    },
+    {
+      
+      "name": "Roast Duck Breast",
+      "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "image": "https://starbelly-react.vercel.app/img/menu/1.jpg",
+      "category": "dessert",
+      "quantity": 1,
+      "price": 14.5
+    },
+    {
+      
+      "name": "Escalope de Veau",
+      "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "image": "https://starbelly-react.vercel.app/img/menu/2.jpg",
+      "category": "popular",
+      "quantity": 1,
+      "price": 14.5
+    },
+    {
+     
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/4.jpg",
+      "category": "soup",
+      "quantity": 1,
+      "price": 9.5
+    },
+    {
+     
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "image": "https://starbelly-react.vercel.app/img/menu/5.jpg",
+      "category": "salad",
+      "quantity": 1,
+      "price": 14.7
+    },
+    {
+     
+      "name": "Escalope de Veau",
+      "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+      "image": "https://starbelly-react.vercel.app/img/menu/6.jpg",
+      "category": "dessert",
+      "quantity": 1,
+      "price": 12.5
+    },
+    {
+    
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans",
+      "image": "https://starbelly-react.vercel.app/img/menu/7.jpg",
+      "category": "dessert",
+      "quantity": 1,
+      "price": 14.7
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee87",
+      "name": "Chicken and Walnut Salad",
+      "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+      "image": "https://starbelly-react.vercel.app/img/menu/8.jpg",
+      "category": "dessert",
+      "price": 13.5
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee90",
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/9.jpg",
+      "category": "dessert",
+      "quantity": 1,
+      "price": 9.5
+    },
+    {
+      "_id": "642c155b2c4774f05c36eeb8",
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "image": "https://starbelly-react.vercel.app/img/menu/11.jpg",
+      "category": "soup",
+      "quantity": 1,
+      "price": 14.7
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee96",
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/12.jpg",
+      "category": "pizza",
+      "quantity": 1,
+      "price": 9.5
+    },
+    {
+      "_id": "642c155b2c4774f05c36eea9",
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/1.jpg",
+      "category": "salad",
+      "quantity": 1,
+      "price": 9.5
+    },
+    {
+      "_id": "642c155b2c4774f05c36ee9b",
+      "name": "Goats Cheese Pizza",
+      "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "image": "https://starbelly-react.vercel.app/img/menu/2.jpg",
+      "category": "pizza",
+      "quantity": 1,
+      "price": 14.5
+    },
+    {
+     
+      "name": "Breton Fish Stew",
+      "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+      "image": "https://starbelly-react.vercel.app/img/menu/3.jpg",
+      "category": "pizza",
+      "quantity": 1,
+      "price": 12.9
+    },
+    {
+     
+      "name": "Goats Cheese Pizza",
+      "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "image": "https://starbelly-react.vercel.app/img/menu/15.jpg",
+      "category": "salad",
+      "quantity": 1,
+      "price": 14.5
+    },
+    {
+      
+      "name": "Escalope de Veau",
+      "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+      "image": "https://starbelly-react.vercel.app/img/menu/6.jpg",
+      "category": "soup",
+      "quantity": 1,
+      "price": 12.5
+    },
+    {
+     
+      "name": "Escalope de Veau",
+      "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+      "image": "https://starbelly-react.vercel.app/img/menu/3.jpg",
+      "category": "dessert",
+      "price": 12.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Escalope de Veau",
+      "recipe": "Pan roasted haddock fillet wrapped in smoked French bacon with pea purée and tomato and chive vinaigrette",
+      "image": "https://starbelly-react.vercel.app/img/menu/2.jpg",
+      "category": "offered",
+      "price": 12.5,
+      "quantity": 1,
+      "ratting": 3
+    },
+    {
+   
+      "name": "Chicken and Walnut Salad",
+      "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+      "image": "https://starbelly-react.vercel.app/img/menu/1.jpg",
+      "category": "salad",
+      "price": 13.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "image": "https://starbelly-react.vercel.app/img/menu/4.jpg",
+      "category": "drinks",
+      "price": 14.7,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+      
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "image": "https://starbelly-react.vercel.app/img/menu/8.jpg",
+      "category": "pizza",
+      "price": 14.7,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Roasted Pork Belly",
+      "recipe": "Chargrilled chicken with avocado, baby gem lettuce, baby spinach, shallots, French beans, walnuts, croutons and a mustard dressing",
+      "image": "https://starbelly-react.vercel.app/img/menu/7.jpg",
+      "category": "pizza",
+      "price": 14.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+    
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/1.jpg",
+      "category": "salad",
+      "quantity": 1,
+      "price": 9.5,
+      "ratting": 4
+    },
+    {
+    
+      "name": "Chicken and Walnut Salad",
+      "recipe": "Pan roasted pork belly with gratin potato, braised Savoy cabbage, apples, thyme and calvados jus",
+      "image": "https://starbelly-react.vercel.app/img/menu/2.jpg",
+      "category": "dessert",
+      "price": 13.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+      
+      "name": "Tuna Niçoise",
+      "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+      "image": "https://starbelly-react.vercel.app/img/menu/3.jpg",
+      "category": "popular",
+      "price": 10.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Roast Duck Breast",
+      "recipe": "Roasted duck breast (served pink) with gratin potato and a griottine cherry sauce",
+      "image": "https://starbelly-react.vercel.app/img/menu/11.jpg",
+      "category": "soup",
+      "price": 14.5,
+      "quantity": 1,
+      "ratting": 4
+    },
+    {
+      
+      "name": "Fish Parmentier",
+      "recipe": "Sautéed breaded veal escalope with watercress, lemon and veal jus.",
+      "image": "https://starbelly-react.vercel.app/img/menu/3.jpg",
+      "category": "soup",
+      "quantity": 1,
+      "price": 9.5,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Haddock",
+      "recipe": "Chargrilled fresh tuna steak (served medium rare) on classic Niçoise salad with French beans.",
+      "quantity": 1,
+      "image": "https://starbelly-react.vercel.app/img/menu/2.jpg",
+      "category": "soup",
+      "price": 14.7,
+      "ratting": 4
+    },
+    {
+    
+      "name": "Tuna Niçoise",
+      "recipe": "Warm goats cheese and roasted vegetable salad with black olive tapenade crostini",
+      "quantity": 1,
+      "image": "https://starbelly-react.vercel.app/img/menu/7.jpg",
+      "category": "popular",
+      "price": 10.5,
+      "ratting": 4
+    },
+    {
+     
+      "name": "Hawaiian pizza",
+      "price": 42,
+      "ratting": 4,
+      "quantity": 1,
+      "category": "pizza",
+      "recipe": "Hawaiian pizza best pizza and  so sweet pizza.",
+      "image": "https://starbelly-react.vercel.app/img/menu/8.jpg"
+    },
+    {
+    
+      "name": "Neapolitan pizza",
+      "price": 88,
+      "ratting": 4,
+      "category": "pizza",
+      "quantity": 1,
+      "recipe": "Neapolitan pizza, or pizza Napoletana, is a type of pizza that originated in Naples, Italy",
+      "image": "https://starbelly-react.vercel.app/img/menu/11.jpg"
+    }
+  ]
+  

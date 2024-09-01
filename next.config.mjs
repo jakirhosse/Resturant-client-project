@@ -1,4 +1,8 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    images: {
+        domains: ["starbelly-react.vercel.app"],
+    },
+};
 
 export default nextConfig;
